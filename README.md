@@ -58,8 +58,6 @@ Skills: Skills: HTML | CSS | Bootstrap | Tailwind CSS | React Bootstrap | Materi
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=habibor-rahaman1010)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibor-rahaman1010&show_icons=true&theme=radical)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=habibor-rahaman1010)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=habibor-rahaman1010) 

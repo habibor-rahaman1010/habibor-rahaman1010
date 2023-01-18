@@ -60,7 +60,7 @@ Skills: Skills: HTML | CSS | Bootstrap | Tailwind CSS | React Bootstrap | Materi
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=habibor-rahaman1010)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/?user=habibor-rahaman1010&show_icons=true&theme=radical)
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=habibor-rahaman1010) 
 

@@ -31,7 +31,7 @@
 
 Hi! I’m Habibor Rahaman (Habib). I’m extremely passionate about anything related to technology. Also deeply interested in design and visual art. My objective will be a good full-stack developer, I every day working hard every moment since to turn that passion into reality.
 
-Skills: Skills: HTML | CSS | Bootstrap | Tailwind CSS | React Bootstrap | Material UI | React.js | React Native | JavaScript | TypeScript | Python | PHP | C | C++ | Node.js | Express.js | Next.js | Django | Fast API | Laravel | MongoDB | SQL lite | MySQL | PostgreSQL | GraphQL |
+Skills: Skills: HTML | CSS | Bootstrap | Tailwind CSS | React.js | JavaScript | ASP .Net Core MVC | ASP .Net Core  Web Api | Repository Pattern | Entity Framwork | Ado .Net | MongoDB | MySQL | MSSQL |
 
 - 🔭 I’m currently working on Full Stack Development. 
 - 🌱 I’m currently learning Programming Hero Web Development. 

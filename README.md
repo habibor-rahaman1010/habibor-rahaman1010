@@ -50,8 +50,9 @@ Skills: Skills: HTML | CSS | Bootstrap | Tailwind CSS | React.js | JavaScript | 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=habibor-rahaman1010&show_icons=true)   
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibor-rahaman1010&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=habibor-rahaman1010)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=habibor-rahaman1010&theme=radical) 
 

@@ -22,8 +22,7 @@
       <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
       <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
       <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-      </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a>  
-      <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+      </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a>   
 </div>  
 
 <br/>  
@@ -53,6 +52,3 @@ Skills: Skills: HTML | CSS | Bootstrap | Tailwind CSS | React.js | JavaScript | 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibor-rahaman1010)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=habibor-rahaman1010&theme=radical) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibor-rahaman1010&size_weight=0.5&count_weight=0.5)
-
